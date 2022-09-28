@@ -1,0 +1,7 @@
+https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Rectangle.html?highlight=rectangle#matplotlib.patches.Rectangle
+
+
+https://www.tutorialspoint.com/program-to-make-indian-flag-in-python
+
+https://stackoverflow.com/questions/14531346/how-to-add-a-text-into-a-rectangle
+
